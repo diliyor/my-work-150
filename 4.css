@@ -1,0 +1,32 @@
+.q1 {
+    box-shadow: 10px 10px 0px black;
+    background-color: pink;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.q2 {
+    box-shadow: 10px 10px 5px black;
+    background-color: pink;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.q3 {
+    box-shadow: 10px 10px 5px 5px black;
+    background-color: pink;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.q4 {
+    box-shadow: 10px 10px 0px grey;
+    background-color: pink;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
